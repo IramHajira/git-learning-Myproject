@@ -1,4 +1,4 @@
-welcome to my project
+welcome to git for begineers my project
 iram
 
 
@@ -10,6 +10,3 @@ hi
 
 
 fbfbfbfbfbfbfbfbfb
-
-last name is hajira
-middle name is no
